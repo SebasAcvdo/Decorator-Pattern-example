@@ -1,3 +1,6 @@
+package decorators;
+import components.Car;
+
 public class TiroArrastre extends Accesorios{
     Car car;
 

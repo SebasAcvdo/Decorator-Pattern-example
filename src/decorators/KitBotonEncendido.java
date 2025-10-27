@@ -1,3 +1,6 @@
+package decorators;
+import components.Car;
+
 public class KitBotonEncendido extends Accesorios{
     Car car;
 

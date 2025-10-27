@@ -1,7 +1,8 @@
+package components;
 public class ZenithMT extends Car{
 
     public ZenithMT(){
-        description = "Zenith MT ofrece caja con transmisión mecánica, pero con más potencia y detalles de confort";
+        description = "El Zenith MT ofrece caja con transmisión mecánica, pero con más potencia y detalles de confort";
     }
     @Override
     public int cost() {

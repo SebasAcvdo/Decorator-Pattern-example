@@ -1,3 +1,6 @@
+package decorators;
+import components.Car;
+
 public class SensorParqueo extends Accesorios{
     Car car;
 

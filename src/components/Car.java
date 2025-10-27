@@ -1,3 +1,4 @@
+package components;
 public abstract class Car {
     String description = "Unkwnown car";
 

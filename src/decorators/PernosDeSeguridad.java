@@ -1,3 +1,5 @@
+package decorators;
+import components.Car;
 
 public class PernosDeSeguridad extends Accesorios{
     Car car;

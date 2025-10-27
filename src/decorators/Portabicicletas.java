@@ -1,3 +1,6 @@
+package decorators;
+import components.Car;
+
 public class Portabicicletas extends Accesorios{
     Car car;
 

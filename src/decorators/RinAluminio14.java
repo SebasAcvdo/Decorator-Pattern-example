@@ -1,3 +1,6 @@
+package decorators;
+import components.Car;
+
 public class RinAluminio14 extends Accesorios{
     Car car;
     tiporin tipo;
